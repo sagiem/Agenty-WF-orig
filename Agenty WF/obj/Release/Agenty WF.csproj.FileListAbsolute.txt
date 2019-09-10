@@ -42,3 +42,25 @@ C:\Users\kashinmv\Downloads\Agenty-WF-1c09e4a64e35fbceff19083f8b02ca78f93e5226\A
 C:\Users\kashinmv\Downloads\Agenty-WF-1c09e4a64e35fbceff19083f8b02ca78f93e5226\Agenty-WF-1c09e4a64e35fbceff19083f8b02ca78f93e5226\Agenty WF\obj\Release\Agenty WF.csproj.CopyComplete
 C:\Users\kashinmv\Downloads\Agenty-WF-1c09e4a64e35fbceff19083f8b02ca78f93e5226\Agenty-WF-1c09e4a64e35fbceff19083f8b02ca78f93e5226\Agenty WF\obj\Release\Agenty WF.exe
 C:\Users\kashinmv\Downloads\Agenty-WF-1c09e4a64e35fbceff19083f8b02ca78f93e5226\Agenty-WF-1c09e4a64e35fbceff19083f8b02ca78f93e5226\Agenty WF\obj\Release\Agenty WF.pdb
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\1224.ico
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\Agenty WF.exe.config
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\Agenty WF.exe
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\Agenty WF.pdb
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\EntityFramework.dll
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\System.Data.SQLite.dll
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\EntityFramework.xml
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\System.Data.SQLite.xml
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\bin\Release\System.Data.SQLite.dll.config
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty WF.csprojAssemblyReference.cache
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty WF.csproj.ResolveComReference.cache
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty_WF.Form1.resources
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty_WF.Properties.Resources.resources
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty WF.csproj.GenerateResource.cache
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty WF.csproj.CoreCompileInputs.cache
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty WF.csproj.CopyComplete
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty WF.exe
+C:\Users\kashinmv\Desktop\прога\Agenty-WF-orig\Agenty WF\obj\Release\Agenty WF.pdb
