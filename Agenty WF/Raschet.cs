@@ -116,7 +116,7 @@ namespace Agenty_WF
             //Загружаем документ
             Microsoft.Office.Interop.Word.Document doc = null;
 
-            object fileName = @"C:\Agenty\templates\otchet.docx";
+            object fileName = @"C:\Agenty\templates\otchet.dotm";
             object falseValue = false;
             object trueValue = true;
             object missing = Type.Missing;
@@ -265,7 +265,7 @@ namespace Agenty_WF
             //Загружаем документ
             Microsoft.Office.Interop.Word.Document doc = null;
 
-            object fileName = @"C:\Agenty\templates\akt.docx";
+            object fileName = @"C:\Agenty\templates\akt.dotm";
             object falseValue = false;
             object trueValue = true;
             object missing = Type.Missing;
